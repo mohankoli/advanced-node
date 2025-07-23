@@ -1,0 +1,14 @@
+{
+  "name": "express-app-with-fibonacci-series",
+  "version": "1.0.0",
+  "description": "Express app using cluster to run Fibonacci calculation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
